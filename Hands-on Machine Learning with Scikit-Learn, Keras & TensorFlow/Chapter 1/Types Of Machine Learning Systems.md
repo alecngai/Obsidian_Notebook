@@ -1,0 +1,5 @@
+Supervised Learning
+
+Unsupervised
+
+Reinforced 

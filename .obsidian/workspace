@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Machine Learning Landscape.md",
+            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Machine Learning Landscape.md",
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "16d12e6900055be6",
   "lastOpenFiles": [
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+    "Bootcamp/Module 1 - Kickstarting with Excel.md",
     "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Machine Learning Landscape.md",
     "Readme.md",
     "Microsoft PowerBI/Flat file location.md",
@@ -96,8 +98,6 @@
     "Microsoft PowerBI/Tasks of a data analyst.md",
     "Microsoft PowerBI/Roles in data.md",
     "Microsoft PowerBI/Overview of Data Analysis.md",
-    "Bootcamp/Data Analytics BootCamp UofT 2021.md",
-    "Bootcamp/Module 1 - Kickstarting with Excel.md",
-    "General Knowledge/Data Analytics.md"
+    "Bootcamp/Data Analytics BootCamp UofT 2021.md"
   ]
 }
