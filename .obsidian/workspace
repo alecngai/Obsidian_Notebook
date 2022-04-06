@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microsoft PowerBI/Flat file location.md",
+            "file": "Readme.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microsoft PowerBI/Flat file location.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "16d12e6900055be6",
   "lastOpenFiles": [
+    "Readme.md",
     "Microsoft PowerBI/Flat file location.md",
     "Microsoft PowerBI/Building blocks of Power BI.md",
     "Microsoft PowerBI/Tasks of a data analyst.md",
@@ -97,7 +98,6 @@
     "Bootcamp/Data Analytics BootCamp UofT 2021.md",
     "Bootcamp/Module 1 - Kickstarting with Excel.md",
     "General Knowledge/Data Analytics.md",
-    "General Knowledge/Extract.md",
-    "Technologies/SQL.md"
+    "General Knowledge/Extract.md"
   ]
 }
