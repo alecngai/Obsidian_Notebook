@@ -1,0 +1,3 @@
+# Technologies 
+- [[SQL]]
+- [[Excel]]
