@@ -13,8 +13,11 @@ Linear regression shows the relation between independent (Predictor) variable i.
 
 Linear regression is called **simple linear regression** when there is only a single input variable and single output. 
 
-![[Pasted image 20220412144023.png]]
+![](https://editor.analyticsvidhya.com/uploads/945791.jpg)
 
 The above graph presents the linear relation between the output(Y) variables and predictor(X) variables. The blue line is referred to as the best fit straight line. Based on the given data points, we attempt to plot aline that fits the points best. This line is created using a training set, and can be used to predict future values based on a test set of predictors. 
 
 To calculate the best fit line linear regression uses astraditional slope-intercerpt form which is **Yi = B0 + B1Xi** 
+
+![](https://editor.analyticsvidhya.com/uploads/375512.jpg)
+
