@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+            "file": "Microsoft PowerBI/Building blocks of Power BI.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 541.5
   },
   "right": {
     "id": "d8fdc94db6a7e2b5",
@@ -69,13 +69,25 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+                "file": "Microsoft PowerBI/Building blocks of Power BI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc08599117c3be14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Microsoft PowerBI/Building blocks of Power BI.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -89,15 +101,15 @@
   },
   "active": "16d12e6900055be6",
   "lastOpenFiles": [
-    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
-    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Machine Learning Landscape.md",
-    "Readme.md",
+    "Microsoft PowerBI/Building blocks of Power BI.md",
+    "Microsoft PowerBI/Flat file location.md",
+    "Microsoft PowerBI/Roles in data.md",
+    "Microsoft PowerBI/Overview of Data Analysis.md",
+    "Microsoft PowerBI/Tasks of a data analyst.md",
+    "Technologies/Excel.md",
     "Technologies/Technologies.md",
     "Technologies/SQL.md",
-    "Technologies/Excel.md",
-    "Microsoft PowerBI/Roles in data.md",
-    "Microsoft PowerBI/Tasks of a data analyst.md",
-    "Microsoft PowerBI/Overview of Data Analysis.md",
-    "Microsoft PowerBI/Flat file location.md"
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Linear Regression.md",
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md"
   ]
 }
