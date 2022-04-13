@@ -21,3 +21,27 @@ To calculate the best fit line linear regression uses astraditional slope-interc
 
 ![](https://editor.analyticsvidhya.com/uploads/375512.jpg)
 
+Linear regression finds the best values for B0 and B1, by finding the values with the lowest error between predicted and actual values. 
+
+## Random Error (Residuals)
+In regression, the difference between the observed value of the depedent variable and predicted variable is called **residuals**. 
+
+Best fit line is obtained by minimizing the **Residual Sum of Squares (RSS)** 
+
+## Cost Function for Linear Regression
+
+In Linear Regression, **Mean Squared Error (MSE)** is the average of squared error that occureed between the Ypredicted and Yi. 
+
+**MSE** is calculated using a simple linear equation 
+
+![](https://editor.analyticsvidhya.com/uploads/650733.jpg)
+
+Using MSE function. the algorithm updates the values of B0 and B1, such taht MSE values settle at the minima.  These paramaeters can be determined using the gradient descent method such that the value for the cost function is minium. 
+
+
+## Gradient Descent for Linear Regression 
+
+Gradient descent is an optimization algorithm that optimizes the cost function to reach the optimal minimal solution. This is an iteratively function changing the values of B0, and B1 until a minimum MSE is reached. 
+
+
+
