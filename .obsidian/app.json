@@ -1,5 +1,14 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "Eclat",
+    "LLE",
+    "DBSCAN",
+    "AlphaGo",
+    "Jie",
+    "Ke",
+    "Apriori"
+  ]
 }
