@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "16d12e6900055be6",
+        "id": "e44725b37aba60fe",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Technologies/Machine Learning Models/Linear Regression.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technologies/Machine Learning Models/Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technologies/Machine Learning Models/Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,17 +93,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "16d12e6900055be6",
+  "active": "e44725b37aba60fe",
   "lastOpenFiles": [
-    "Technologies/Machine Learning Models/Linear Regression.md",
-    "Technologies/Excel.md",
-    "Technologies/SQL.md",
     "Technologies/Technologies.md",
+    "Technologies/Excel.md",
+    "Bootcamp/Module 1 - Kickstarting with Excel.md",
+    "Bootcamp/Data Analytics BootCamp UofT 2021.md",
     "Microsoft PowerBI/Building blocks of Power BI.md",
-    "Microsoft PowerBI/Flat file location.md",
-    "Pasted image 20220412144530.png.md",
-    "Pasted image 20220412144023.png.md",
-    "Pasted image 20220412144023.png",
-    "Pasted image 20220412144530.png"
+    "Readme.md",
+    "Technologies/SQL.md",
+    "Technologies/Machine Learning Models/Linear Regression.md",
+    "Microsoft PowerBI/Tasks of a data analyst.md",
+    "Microsoft PowerBI/Roles in data.md"
   ]
 }

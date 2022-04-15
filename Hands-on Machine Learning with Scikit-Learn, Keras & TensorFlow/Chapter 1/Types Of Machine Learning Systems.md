@@ -3,7 +3,7 @@ Training set includes solution aka "labels"
 
 learning algorithims 
 - K-Nearest Neighbors
-- Linear Regression 
+- [[Linear Regression]] 
 - Logisitcal Regression
 - Support Vector Machines (VSM)
 - Decision Trees and Random Forest

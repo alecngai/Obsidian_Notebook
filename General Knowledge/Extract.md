@@ -34,7 +34,7 @@ Extracting and reloading the entire table can cause network stress, so it is not
 
  In online extraction, the data is extracted directly from the source system. The extraction process connects to the source system and removes the source data.
 
-## Technologies 
+## [[Technologies]] 
 - [[SQL ]]
 
 Ref
