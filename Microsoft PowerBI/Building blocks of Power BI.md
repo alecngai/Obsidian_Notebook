@@ -10,17 +10,17 @@ Visualizations can be simple, like a single number that represents something sig
 
 A **dataset** is a collection of data that Power BI uses to create its visualizations.
 
-You can have a simple dataset that's based on a single table from a Microsoft Excel workbook, similar to what's shown in the following image.
+You can have a simple dataset that's based on a single table from a Microsoft [[Excel]] workbook, similar to what's shown in the following image.
 
 ![Power BI datasets](https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/media/pbi-bblocks_02.png)
 
 **Datasets** can also be a combination of many different sources, which you can filter and combine to provide a unique collection of data (a dataset) for use in Power BI.
 
-For example, you can create a dataset from three database fields, one website table, an Excel table, and online results of an email marketing campaign. That unique combination is still considered a single **dataset**, even though it was pulled together from many different sources.
+For example, you can create a dataset from three database fields, one website table, an [[Excel]] table, and online results of an email marketing campaign. That unique combination is still considered a single **dataset**, even though it was pulled together from many different sources.
 
 Filtering data before bringing it into Power BI lets you focus on the data that matters to you. For example, you can filter your contact database so that only customers who received emails from the marketing campaign are included in the dataset. You can then create visuals based on that subset (the filtered collection) of customers who were included in the campaign. Filtering helps you focus your data—and your efforts.
 
-An important and enabling part of Power BI is the multitude of data **connectors** that are included. Whether the data you want is in Excel or a Microsoft SQL Server database, in Azure or Oracle, or in a service like Facebook, Salesforce, or MailChimp, Power BI has built-in data connectors that let you easily connect to that data, filter it if necessary, and bring it into your dataset.
+An important and enabling part of Power BI is the multitude of data **connectors** that are included. Whether the data you want is in [[Excel]] or a Microsoft [[SQL]] Server database, in Azure or Oracle, or in a service like Facebook, Salesforce, or MailChimp, Power BI has built-in data connectors that let you easily connect to that data, filter it if necessary, and bring it into your dataset.
 
 After you have a dataset, you can begin creating visualizations that show different portions of it in different ways, and gain insights based on what you see. That's where reports come in.
 
@@ -58,9 +58,9 @@ Power BI is a collection of services, apps, and connectors that lets you connect
 
 Now that you've learned about the handful of basic building blocks of Power BI, it should be clear that you can create datasets that make sense _to you_ and create visually compelling reports that tell your story. Stories told with Power BI don't have to be complex, or complicated, to be compelling.
 
-For some people, using a single Excel table in a dataset and then sharing a dashboard with their team will be an incredibly valuable way to use Power BI.
+For some people, using a single [[Excel]] table in a dataset and then sharing a dashboard with their team will be an incredibly valuable way to use Power BI.
 
-For others, the value of Power BI will be in using real-time Azure SQL Data Warehouse tables that combine with other databases and real-time sources to build a moment-by-moment dataset.
+For others, the value of Power BI will be in using real-time Azure [[SQL]] Data Warehouse tables that combine with other databases and real-time sources to build a moment-by-moment dataset.
 
 For both groups, the process is the same: create datasets, build compelling visuals, and share them with others. And the result is also the same for both groups: harness your ever-expanding world of data, and turn it into actionable insights.
 

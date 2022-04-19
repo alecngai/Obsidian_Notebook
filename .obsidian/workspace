@@ -4,10 +4,17 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "dc81e8ddb97afedd",
         "type": "leaf",
         "state": {
           "type": "empty",
+=======
+        "id": "e44725b37aba60fe",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+>>>>>>> 0ba65d7fa4ed64f9287ce5c11c0635752c394c1e
           "state": {}
         }
       }
@@ -85,6 +92,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "949afec609556080",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -93,17 +108,21 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "dc81e8ddb97afedd",
+=======
+  "active": "e44725b37aba60fe",
+>>>>>>> 0ba65d7fa4ed64f9287ce5c11c0635752c394c1e
   "lastOpenFiles": [
-    "Technologies/Machine Learning Models/Linear Regression.md",
-    "Technologies/Excel.md",
-    "Technologies/SQL.md",
-    "Technologies/Technologies.md",
-    "Microsoft PowerBI/Building blocks of Power BI.md",
     "Microsoft PowerBI/Flat file location.md",
-    "Pasted image 20220412144530.png.md",
-    "Pasted image 20220412144023.png.md",
-    "Pasted image 20220412144023.png",
-    "Pasted image 20220412144530.png"
+    "Bootcamp/Module 1 - Kickstarting with Excel.md",
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+    "Bootcamp/Data Analytics BootCamp UofT 2021.md",
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Machine Learning Landscape.md",
+    "Technologies/Technologies.md",
+    "Technologies/Excel.md",
+    "Microsoft PowerBI/Building blocks of Power BI.md",
+    "Readme.md",
+    "Technologies/SQL.md"
   ]
 }
