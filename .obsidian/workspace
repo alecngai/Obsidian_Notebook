@@ -1,36 +1,33 @@
 {
   "main": {
-    "id": "bf367bbb9360861b",
+    "id": "d0e318ae9c6b366b",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "dc81e8ddb97afedd",
+        "id": "6ac9fb4a98c4aea1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-=======
-        "id": "e44725b37aba60fe",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
->>>>>>> 0ba65d7fa4ed64f9287ce5c11c0635752c394c1e
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "50f16c09b643218e",
+    "id": "6f0312d904273adc",
     "type": "split",
     "children": [
       {
-        "id": "137d44372cf124d7",
+        "id": "441f8a98925aeace",
         "type": "tabs",
         "children": [
           {
-            "id": "71ee92143fd24d94",
+            "id": "b7ad3f578f9363ec",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -38,7 +35,7 @@
             }
           },
           {
-            "id": "8270ab5c1d44c5f3",
+            "id": "1c27383496280138",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,22 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.5
+    "width": 300
   },
   "right": {
-    "id": "d8fdc94db6a7e2b5",
+    "id": "e01b121790ec0637",
     "type": "split",
     "children": [
       {
-        "id": "7635cf37516b439e",
+        "id": "8822717d41cc7dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "0b8060189202de6f",
+            "id": "f7f6a2f0f712e34a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,22 +81,15 @@
             }
           },
           {
-            "id": "dc08599117c3be14",
+            "id": "2af2b9f439c7a260",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "949afec609556080",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -108,21 +99,8 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "dc81e8ddb97afedd",
-=======
-  "active": "e44725b37aba60fe",
->>>>>>> 0ba65d7fa4ed64f9287ce5c11c0635752c394c1e
+  "active": "6ac9fb4a98c4aea1",
   "lastOpenFiles": [
-    "Microsoft PowerBI/Flat file location.md",
-    "Bootcamp/Module 1 - Kickstarting with Excel.md",
-    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
-    "Bootcamp/Data Analytics BootCamp UofT 2021.md",
-    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Machine Learning Landscape.md",
-    "Technologies/Technologies.md",
-    "Technologies/Excel.md",
-    "Microsoft PowerBI/Building blocks of Power BI.md",
-    "Readme.md",
-    "Technologies/SQL.md"
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md"
   ]
 }
