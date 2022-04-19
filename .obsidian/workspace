@@ -91,13 +91,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "cbe897e05d368b4c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "6ac9fb4a98c4aea1",
   "lastOpenFiles": [
