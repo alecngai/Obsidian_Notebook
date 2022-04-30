@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e44725b37aba60fe",
+        "id": "a400f50d8b40c3da",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Technologies/Machine Learning Models/Linear Regression.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technologies/Machine Learning Models/Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technologies/Machine Learning Models/Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,24 +100,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "e44725b37aba60fe",
+  "active": "a400f50d8b40c3da",
   "lastOpenFiles": [
+    "Technologies/Machine Learning Models/Linear Regression.md",
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+    "General Knowledge/Data Visualization.md",
     "Microsoft PowerBI/Flat file location.md",
     "Bootcamp/Module 1 - Kickstarting with Excel.md",
-    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
     "Bootcamp/Data Analytics BootCamp UofT 2021.md",
     "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Machine Learning Landscape.md",
     "Technologies/Technologies.md",
     "Technologies/Excel.md",
-    "Microsoft PowerBI/Building blocks of Power BI.md",
-    "Readme.md",
-    "Technologies/SQL.md"
+    "Microsoft PowerBI/Building blocks of Power BI.md"
   ]
 }
