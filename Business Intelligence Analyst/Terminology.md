@@ -1,16 +1,16 @@
 # Terminology 
 
-#### SDLC 
+## SDLC 
 	Systems development life cycle
 
-##### Waterfall model
+### [Waterfall Model](https://www.javatpoint.com/software-engineering-waterfall-model)
 The waterfall is a universally accepted SDLC model. In this method, the whole process of software development is divided into various phases.
 
 The waterfall model is a continuous software development model in which development is seen as flowing steadily downwards (like a waterfall) through the steps of requirements analysis, design, implementation, testing (validation), integration, and maintenance.
 
 Linear ordering of activities has some significant consequences. First, to identify the end of a phase and the beginning of the next, some certification techniques have to be employed at the end of each step. Some verification and validation usually do this mean that will ensure that the output of the stage is consistent with its input (which is the output of the previous step), and that the output of the stage is consistent with the overall requirements of the system.
 
-##### Rad Model 
+### [RAD Model](https://www.javatpoint.com/software-engineering-rapid-application-development-model)
 RAD or Rapid Application Development process is an adoption of the waterfall model; it targets developing software in a short period. The RAD model is based on the concept that a better system can be developed in lesser time by using focus groups to gather system requirements.
 
 	-   Business Modeling
@@ -19,7 +19,7 @@ RAD or Rapid Application Development process is an adoption of the waterfall mod
 	-   Application Generation
 	-   Testing and Turnover
 
-##### Spiral Model
+### [Spiral Model](https://www.javatpoint.com/software-engineering-spiral-model)
 
 The spiral model is a **risk-driven process model**. This SDLC model helps the group to adopt elements of one or more process models like a waterfall, incremental, waterfall, etc. The spiral technique is a combination of rapid prototyping and concurrency in design and development activities.
 
@@ -29,7 +29,40 @@ The next step in the cycle is to evaluate these different alternatives based on 
 
 The next step is to develop strategies that solve uncertainties and risks. This step may involve activities such as benchmarking, simulation, and prototyping.
 
-##### V-Model
+### [V-Model](https://www.javatpoint.com/software-engineering-v-model)
+In this type of SDLC model testing and the development, the step is planned in parallel. So, there are verification phases on the side and the validation phase on the other side. V-Model joins by Coding phase.
+
+### [Incremental Model](https://www.javatpoint.com/software-engineering-incremental-model)
+
+The incremental model is not a separate model. It is necessarily a series of waterfall cycles. The requirements are divided into groups at the start of the project. For each group, the SDLC model is followed to develop software. The SDLC process is repeated, with each release adding more functionality until all requirements are met. In this method, each cycle act as the maintenance phase for the previous software release. Modification to the incremental model allows development cycles to overlap. After that subsequent cycle may begin before the previous cycle is complete.
+
+### [Agile Model](https://www.javatpoint.com/software-engineering-agile-model)
+
+Agile methodology is a practice which promotes continues interaction of development and testing during the SDLC process of any project. In the Agile method, the entire project is divided into small incremental builds. All of these builds are provided in iterations, and each iteration lasts from one to three weeks.
+
+Any agile software phase is characterized in a manner that addresses several key assumptions about the bulk of software projects:
+
+1.  It is difficult to think in advance which software requirements will persist and which will change. It is equally difficult to predict how user priorities will change as the project proceeds.
+2.  For many types of software, design and development are interleaved. That is, both activities should be performed in tandem so that design models are proven as they are created. It is difficult to think about how much design is necessary before construction is used to test the configuration.
+3.  Analysis, design, development, and testing are not as predictable (from a planning point of view) as we might like.
+
+### [Iterative Model](https://www.javatpoint.com/software-engineering-iterative-model)
+
+It is a particular implementation of a software development life cycle that focuses on an initial, simplified implementation, which then progressively gains more complexity and a broader feature set until the final system is complete. In short, iterative development is a way of breaking down the software development of a large application into smaller pieces.
+
+### [Big bang model](https://www.javatpoint.com/software-engineering-big-bang-model)
+
+Big bang model is focusing on all types of resources in software development and coding, with no or very little planning. The requirements are understood and implemented when they come.
+
+This model works best for small projects with smaller size development team which are working together. It is also useful for academic software development projects. It is an ideal model where requirements are either unknown or final release date is not given.
+
+### [Prototype Model](https://www.javatpoint.com/software-engineering-prototype-model)
+
+The prototyping model starts with the requirements gathering. The developer and the user meet and define the purpose of the software, identify the needs, etc.
+
+A '**quick design**' is then created. This design focuses on those aspects of the software that will be visible to the user. It then leads to the development of a prototype. The customer then checks the prototype, and any modifications or changes that are needed are made to the prototype.
+
+Looping takes place in this step, and better versions of the prototype are created. These are continuously shown to the user so that any new changes can be updated in the prototype. This process continue until the customer is satisfied with the system. Once a user is satisfied, the prototype is converted to the actual system with all considerations for quality and security.
 
 #### UAT
 	User Acceptance Testing 
