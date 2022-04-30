@@ -1,15 +1,23 @@
 {
   "main": {
-    "id": "bf367bbb9360861b",
+    "id": "d0e318ae9c6b366b",
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "a400f50d8b40c3da",
+=======
+        "id": "6ac9fb4a98c4aea1",
+>>>>>>> 8c53077bdaa3a55b6457e0395fb67612f368169a
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Technologies/Machine Learning Models/Linear Regression.md",
+=======
+            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+>>>>>>> 8c53077bdaa3a55b6457e0395fb67612f368169a
             "mode": "source",
             "source": false
           }
@@ -19,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "50f16c09b643218e",
+    "id": "6f0312d904273adc",
     "type": "split",
     "children": [
       {
-        "id": "137d44372cf124d7",
+        "id": "441f8a98925aeace",
         "type": "tabs",
         "children": [
           {
-            "id": "71ee92143fd24d94",
+            "id": "b7ad3f578f9363ec",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +43,7 @@
             }
           },
           {
-            "id": "8270ab5c1d44c5f3",
+            "id": "1c27383496280138",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,23 +61,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.5
+    "width": 300
   },
   "right": {
-    "id": "d8fdc94db6a7e2b5",
+    "id": "e01b121790ec0637",
     "type": "split",
     "children": [
       {
-        "id": "7635cf37516b439e",
+        "id": "8822717d41cc7dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "0b8060189202de6f",
+            "id": "f7f6a2f0f712e34a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Technologies/Machine Learning Models/Linear Regression.md",
+=======
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+>>>>>>> 8c53077bdaa3a55b6457e0395fb67612f368169a
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,19 +93,23 @@
             }
           },
           {
-            "id": "dc08599117c3be14",
+            "id": "2af2b9f439c7a260",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Technologies/Machine Learning Models/Linear Regression.md",
+=======
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+>>>>>>> 8c53077bdaa3a55b6457e0395fb67612f368169a
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "949afec609556080",
+            "id": "cbe897e05d368b4c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -107,6 +123,7 @@
     "direction": "horizontal",
     "width": 300
   },
+<<<<<<< HEAD
   "active": "a400f50d8b40c3da",
   "lastOpenFiles": [
     "Technologies/Machine Learning Models/Linear Regression.md",
@@ -119,5 +136,10 @@
     "Technologies/Technologies.md",
     "Technologies/Excel.md",
     "Microsoft PowerBI/Building blocks of Power BI.md"
+=======
+  "active": "6ac9fb4a98c4aea1",
+  "lastOpenFiles": [
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md"
+>>>>>>> 8c53077bdaa3a55b6457e0395fb67612f368169a
   ]
 }
