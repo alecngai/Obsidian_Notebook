@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Main Challenges of Machine Learning.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Main Challenges of Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Main Challenges of Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,6 +109,8 @@
   },
   "active": "6ac9fb4a98c4aea1",
   "lastOpenFiles": [
-    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md"
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Main Challenges of Machine Learning.md",
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+    "Technologies/Machine Learning Models/Linear Regression.md"
   ]
 }

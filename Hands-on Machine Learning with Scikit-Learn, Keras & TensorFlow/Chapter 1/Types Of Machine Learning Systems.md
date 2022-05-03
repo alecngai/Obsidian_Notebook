@@ -80,3 +80,19 @@ System learns the examples by heart, then generalizes to new cases using a simil
 
 # Model-Based
 Another way to generalize from a set of examples is to build a model, using this model we use this to predict which the instance will be compared too. 
+
+Model selection is curicial, you must plot the data, then identify the type of trend, from this trend you may select a model. 
+
+To identify the models sucess, you must define a utility function or fitness function that measures how good your model is. Alternatively, you may use a cost function to determine how bad a model is fitted. 
+
+once a model is trained, you can make predictions by inserting test data vs training data. 
+
+More powerful models are called Polnomial Regression model, which intakes more features, and if the features have a good correlation then it will allow for more powerful and accurate predictions. 
+
+Applying the model after it has been trained to make predictions on new cases is called **inference**, hoping this model will generalize well. 
+
+A typical Machine Learning project looks like
+- Studied the data
+- Select a model
+- Train it on training data, searched for the model parameter alues that minimizes a cost function. 
+- Apply model to make predictions
