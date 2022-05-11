@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Main Challenges of Machine Learning.md",
+            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Main Challenges of Machine Learning.md",
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Main Challenges of Machine Learning.md",
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,9 +109,11 @@
   },
   "active": "6ac9fb4a98c4aea1",
   "lastOpenFiles": [
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
     "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Main Challenges of Machine Learning.md",
-    "Technologies/Machine Learning Models/Linear Regression.md",
     "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Exercise.md",
+    "Technologies/Machine Learning Models/Linear Regression.md",
     "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Machine Learning Landscape.md",
     "Business Intelligence Analyst/Interview Question.md",
     "Business Intelligence Analyst/Terminology.md",
