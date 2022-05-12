@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Tableau/Connect and Extract Data.md",
+=======
+            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
+>>>>>>> aca99968f0dbf1f62a258b5fb5e5acbdb486d45b
             "mode": "source",
             "source": false
           }
@@ -69,7 +73,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Tableau/Connect and Extract Data.md",
+=======
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
+>>>>>>> aca99968f0dbf1f62a258b5fb5e5acbdb486d45b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +94,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Tableau/Connect and Extract Data.md",
+=======
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
+>>>>>>> aca99968f0dbf1f62a258b5fb5e5acbdb486d45b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,13 +121,19 @@
   },
   "active": "6ac9fb4a98c4aea1",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Tableau/Connect and Extract Data.md",
     "Tableau/Green and Blue Pills.md",
     "Readme.md",
     "Technologies/Machine Learning Models/Linear Regression.md",
-    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
-    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Machine Learning Landscape.md",
+=======
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
     "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Main Challenges of Machine Learning.md",
+>>>>>>> aca99968f0dbf1f62a258b5fb5e5acbdb486d45b
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Exercise.md",
+    "Technologies/Machine Learning Models/Linear Regression.md",
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Machine Learning Landscape.md",
     "Business Intelligence Analyst/Interview Question.md",
     "Business Intelligence Analyst/Terminology.md",
     "Images/Pasted image 20220430152021.png"

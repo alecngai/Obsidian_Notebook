@@ -31,3 +31,21 @@ Overfitting happens when the model is too complex relative to the amount and noi
 Constraining a model to make it simplier and reduce the risk of overfitting is called **regularization** 
 
 **Degrees of freedom** is something we want to minimize to allow for regularization to take place. We can constrain one feature to force a small
+
+**Hyperparameter** is a parameter of a learning algorithm, as such is not affected by the learning algorithm itself. This parameter controlls the amount of regularization applied during learning. 
+
+# Underfitting the Training Data
+This occurs when your model is too simple to understand the underlying structure of the data. 
+
+Main options for fixing this problem:
+- Select a more powerful model, with more parameters
+- Feed better features to learning algorithm (feature engineering)
+- Reduce the constraints on the model (e.g. reduce the regularization hpyerparameter
+
+# Hpyerparameter Tuning and Model Selection 
+**Holdout validation** Simply hold out part of the training set to evaluate several candidate models and select the best one, the new held-out set is called the validation set or sometimes development set or dev set. 
+
+Test all models on validation set and see which model has the lowest generlization error then train on full set. 
+
+# Data Mismatch
+The input data for the ML model does not match the training data, or the training data does not represent the entire input set. e.g. Training an application to identify flowers, but you do not have all the flowers on the training data set. 
