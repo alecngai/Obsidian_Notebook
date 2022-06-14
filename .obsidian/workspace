@@ -1,19 +1,15 @@
 {
   "main": {
-    "id": "d0e318ae9c6b366b",
+    "id": "6a4eb08461d19796",
     "type": "split",
     "children": [
       {
-        "id": "6ac9fb4a98c4aea1",
+        "id": "d56006320b133e81",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Tableau/Connect and Extract Data.md",
-=======
-            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
->>>>>>> aca99968f0dbf1f62a258b5fb5e5acbdb486d45b
+            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
             "mode": "source",
             "source": false
           }
@@ -23,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6f0312d904273adc",
+    "id": "0f8041e7a90194cf",
     "type": "split",
     "children": [
       {
-        "id": "441f8a98925aeace",
+        "id": "227bc6348f5ea0cd",
         "type": "tabs",
         "children": [
           {
-            "id": "b7ad3f578f9363ec",
+            "id": "d651a72fce2d09d0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +35,7 @@
             }
           },
           {
-            "id": "1c27383496280138",
+            "id": "3fc59f3e4466beb4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,24 +56,28 @@
     "width": 300
   },
   "right": {
-    "id": "e01b121790ec0637",
+    "id": "45e3e806a4e6393f",
     "type": "split",
     "children": [
       {
-        "id": "8822717d41cc7dbf",
+        "id": "eac39db1dc03a76e",
         "type": "tabs",
         "children": [
           {
-            "id": "f7f6a2f0f712e34a",
+            "id": "ebdcb85ca44dfac4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb76d1792dfa8257",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Tableau/Connect and Extract Data.md",
-=======
-                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
->>>>>>> aca99968f0dbf1f62a258b5fb5e5acbdb486d45b
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,53 +89,26 @@
             }
           },
           {
-            "id": "2af2b9f439c7a260",
+            "id": "c3d42b4cc2a5488f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Tableau/Connect and Extract Data.md",
-=======
-                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
->>>>>>> aca99968f0dbf1f62a258b5fb5e5acbdb486d45b
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "cbe897e05d368b4c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6ac9fb4a98c4aea1",
+  "active": "d56006320b133e81",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Tableau/Connect and Extract Data.md",
-    "Tableau/Green and Blue Pills.md",
-    "Readme.md",
-    "Technologies/Machine Learning Models/Linear Regression.md",
-=======
-    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
-    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Main Challenges of Machine Learning.md",
->>>>>>> aca99968f0dbf1f62a258b5fb5e5acbdb486d45b
-    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
-    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Exercise.md",
-    "Technologies/Machine Learning Models/Linear Regression.md",
-    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Machine Learning Landscape.md",
-    "Business Intelligence Analyst/Interview Question.md",
-    "Business Intelligence Analyst/Terminology.md",
-    "Images/Pasted image 20220430152021.png"
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md"
   ]
 }
