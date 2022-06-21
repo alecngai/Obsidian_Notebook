@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+            "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md",
+                "file": "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,6 +109,7 @@
   },
   "active": "d56006320b133e81",
   "lastOpenFiles": [
+    "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 2/End-to-End Machine Learning Project.md",
     "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow/Chapter 1/Types Of Machine Learning Systems.md"
   ]
 }
